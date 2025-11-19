@@ -71,20 +71,6 @@ Swagger available at:
 
 http://localhost:8080/swagger-ui.html
 
-🗂️ Project Structure
-backend/
- └── src/main/java/com/zameer/assignment
-      ├── auth
-      ├── note
-      ├── security
-      ├── user
-      └── AssignmentBackendApplication.java
-
-frontend/
- └── src
-      ├── App.jsx
-      ├── api.js
-      └── styles.css
 
 🧪 API Testing (Postman)
 
